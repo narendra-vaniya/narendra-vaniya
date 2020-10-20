@@ -4,7 +4,7 @@
 I’m Narendra vaniya, a Flutter & web developer. I am passionate about building an excellent Android app and ioS app
 using Flutter.I have 1 year of experience to develop Android and ioS app using Flutter.
 ```
-### What can i develop in Flutter?
+```
     👉 Flutter widgets
     👉 State management
     👉 API Integration
@@ -19,6 +19,7 @@ using Flutter.I have 1 year of experience to develop Android and ioS app using F
     👉 Animation
     👉 Beautiful UI Design
     👉 Local and FCM Notification
+```
 
 
 
